@@ -1,1 +1,3 @@
-# lqa_static_site
+# Static test site
+
+Click to the link in the description. 
